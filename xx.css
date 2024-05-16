@@ -1,0 +1,37 @@
+.padrao {
+    color:rgb(255, 255, 255);
+    background-color: crimson;
+    border: 3px solid black;
+    border-radius: 30px;
+    width: 200px;
+    text-align: center;
+    margin: 0px 0px 20px 586px;
+    position: sticky;
+    top: 0px;
+
+}
+
+a{
+    color:rgb(255, 255, 255);
+    background-color: crimson;
+    border: 3px solid black;
+    border-radius: 5px;
+    width: 400px;
+    padding: 3px;
+    text-align: center;
+    margin-top: 30px;
+    text-decoration: none;
+    margin-top: 20%;
+}
+
+a:hover{
+    color: black;
+    background-color: crimson;
+    font-size: 20px;
+    border: rgb(10, 10, 10) solid 3px;
+}
+
+.padrao1{
+    text-align: justify;
+    font-style: inherit;
+}
